@@ -87,8 +87,9 @@ Publish the website in the given URL.
   </body>
 </html>
 ~~~
-~~~
+
 ### Product:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -207,8 +208,9 @@ Publish the website in the given URL.
   </body>
 </html>
 ~~~
-~~~
+
 ### People:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -284,8 +286,9 @@ Publish the website in the given URL.
   </body>
 </html>
 ~~~
-~~~
+
 ### Contact:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -322,8 +325,8 @@ Publish the website in the given URL.
    </body>
 </html> 
 ~~~
-~~~
 ### CSS:
+~~~
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
