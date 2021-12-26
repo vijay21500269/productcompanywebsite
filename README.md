@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### Home:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -85,7 +86,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+~~~
+~~~
 ### Product:
 <!DOCTYPE html>
 <html lang="en">
@@ -204,7 +206,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+~~~
+~~~
 ### People:
 <!DOCTYPE html>
 <html lang="en">
@@ -280,6 +283,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
+~~~
 ### Contact:
 <!DOCTYPE html>
 <html lang="en">
@@ -315,7 +320,9 @@ Publish the website in the given URL.
       </div>
     </div>
    </body>
-</html>  
+</html> 
+~~~
+~~~
 ### CSS:
 * {
   box-sizing: border-box;
@@ -456,14 +463,22 @@ body {
   margin: 0px 0px 0px 0px;
   color: whitesmoke;
 }
-
+~~~
 
 ## OUTPUT:
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](https://github.com/vijay21500269/productcompanywebsite/blob/main/Screenshot%20(39).png?raw=true)
+### Product Page:
 
+![output](https://github.com/vijay21500269/productcompanywebsite/blob/main/Screenshot%20(40).png?raw=true)
+### People Page:
+
+![output](https://github.com/vijay21500269/productcompanywebsite/blob/main/Screenshot%20(41).png?raw=true)
+### Contact Page:
+
+![output](https://github.com/vijay21500269/productcompanywebsite/blob/main/Screenshot%20(42).png?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
